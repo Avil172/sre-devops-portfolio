@@ -28,7 +28,7 @@ Welcome to my GitHub portfolio! I'm a **Site Reliability Engineer (SRE)** and **
 ### 3. Terraform AWS Infrastructure
 - **Description**: Automated AWS infrastructure provisioning using Terraform.
 - **Technologies**: Terraform, AWS (EC2, VPC, S3)
-- **Link**: [Terraform AWS Project](./projects/terraform-aws-infra)
+- **Link**: [Terraform AWS Project](./terraform-aws-infra)
 
 ### 4. Monitoring Setup with Prometheus & Grafana
 - **Description**: Set up monitoring and alerting using Prometheus and Grafana for real-time visibility into system performance.
