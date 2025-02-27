@@ -39,6 +39,7 @@ Welcome to my GitHub portfolio! I'm a **Site Reliability Engineer (SRE)** and **
 
 - **Automate Deployment**: [Shell Script](./scripts/automate-deployment.sh)
 - **Backup Script**: [Python Script](./scripts/backup-script.py)
+- **Python Chatbot** [Slack Chatbot](./slack-bolt-python)
 
 ## 📞 Contact Me
 
